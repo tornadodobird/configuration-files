@@ -1,0 +1,65 @@
+{
+  "_from": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball",
+  "_id": "open-in-browsers@0.0.30",
+  "_inBundle": false,
+  "_integrity": "sha512-HzIQNnUTEIhnoqI92VB25MHq4oS0KokPYEoQcn7bPSdFTjuuQI1/sQzatpSYZE2m74rRxJNP0ulO/bFwcPeNUw==",
+  "_location": "/open-in-browsers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball",
+  "_shasum": "53eebaf9ab9ac779e9aea2ad36cb188047e9d82d",
+  "_spec": "https://www.atom.io/api/packages/open-in-browsers/versions/0.0.30/tarball",
+  "_where": "/private/var/folders/yk/p409vg916n7_x23v9fslll_m0000gn/T/apm-install-dir-2022119-5937-v1bqrw.2bmlg",
+  "bugs": {
+    "url": "https://github.com/skandasoft/open-in-browsers/issues"
+  },
+  "bundleDependencies": false,
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    },
+    "pp": {
+      "versions": {
+        ">=0.0.0": "consumeAddPreview"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "load-json-file": "^2.0.0",
+    "lodash": "^3.10.1"
+  },
+  "deprecated": false,
+  "description": "Open in IE/Chrome/Firefox/Opera",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/skandasoft/open-in-browsers#readme",
+  "keywords": [
+    "open in browser",
+    "IE",
+    "Firefox",
+    "chrome",
+    "Opera"
+  ],
+  "license": "MIT",
+  "main": "./lib/open-in-browsers",
+  "name": "open-in-browsers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skandasoft/open-in-browsers.git"
+  },
+  "version": "0.0.30"
+}

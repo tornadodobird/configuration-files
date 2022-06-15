@@ -1,0 +1,13 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+    titleBar: "custom-inset"
+  editor:
+    fontFamily: "IBM Plex Mono, Menlo, Consolas, DejaVu Sans Mono, monospace"
+  "exception-reporting":
+    userId: "7d06f2f6-0e0c-4212-ae64-0a186e4eb571"
+  welcome:
+    showOnStartup: false
